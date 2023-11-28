@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "inventario",
+            "request": "launch",
+            "mainClass": "inventario",
+            "projectName": "Proyecto_java_90821ad8"
+        },
+        {
+            "type": "java",
+            "name": "venta",
+            "request": "launch",
+            "mainClass": "venta",
+            "projectName": "Proyecto_java_90821ad8"
+        },
+        {
+            "type": "java",
+            "name": "cliente",
+            "request": "launch",
+            "mainClass": "cliente",
+            "projectName": "Proyecto_java_90821ad8"
+        },
+        {
+            "type": "java",
+            "name": "compra",
+            "request": "launch",
+            "mainClass": "compra",
+            "projectName": "Proyecto_java_90821ad8"
+        },
+        {
+            "type": "java",
+            "name": "proveedor",
+            "request": "launch",
+            "mainClass": "proveedor",
+            "projectName": "Proyecto_java_90821ad8"
+        },
+        {
+            "type": "java",
+            "name": "Proyecto",
+            "request": "launch",
+            "mainClass": "Proyecto",
+            "projectName": "Proyecto_java_90821ad8"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "proyecto",
+            "request": "launch",
+            "mainClass": "proyecto",
+            "projectName": "Proyecto_java_90821ad8"
+        }
+    ]
+}
